@@ -1,0 +1,100 @@
+body{
+ background-image: url('trumpet.jpg');
+ background-repeat: no-repeat;
+ background-size: 100%;
+}
+div{
+	border:3px solid black;
+}
+
+#square{
+	width: 80px;
+	position: absolute;
+	height: 80px;
+	background-color: transparent;
+	
+}
+#square2{
+	width: 80px;
+	height: 80px;
+	background-color: transparent;	
+	position: absolute;
+	left: 48%;
+	top:1%;
+	
+}
+#square3{
+	width: 80px;
+	height: 80px;
+	background-color: transparent;
+	position: absolute;
+	left: 93%;
+	top:1%;
+}
+#square4{
+	width: 80px;
+	height: 80px;
+	background-color: transparent;
+	position: absolute;
+	left: 93%;
+	top:45%;
+}
+#square5{
+	width: 80px;
+	height: 80px;
+	background-color: transparent;
+	position: absolute;
+	left: 93%;
+	top:87%;
+}
+#square6{
+	width: 80px;
+	height: 80px;
+	background-color: transparent;
+	position: absolute;
+	left: 48%;
+	top:87%;
+}
+#square7{
+	width: 80px;
+	height: 80px;
+	background-color: transparent;
+	position: absolute;
+	top:87%;
+}
+#square8{
+	height: 80px;
+	background-color: transparent;
+	width: 80px;
+	position: absolute;
+	top:45%;
+}
+#square9{
+	width: 80px;
+	height: 80px;
+	background-color: transparent;
+	position: absolute;
+	left: 48%;
+	top:45%;
+}
+
+#alphabet{
+	color: white;
+	font-size: 35px;
+	font-weight: 400;
+	position: relative;
+	transform: translate(-1%,-60%);
+	text-align: center;
+}
+#Name{
+color: yellow;
+position: relative;
+top:-65%;
+font-size: 12px;
+text-align: center;
+}
+
+.animation{
+	transform: scale(1.1);
+	border: 3px solid blueviolet;
+}
